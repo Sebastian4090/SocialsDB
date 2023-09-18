@@ -15,23 +15,65 @@
     },
     {
         "id": 3,
+        "domain": "Whatsapp",
+        "name": "Whatsapp",
+        "link": "www.whatsapp.com"
+        
+    },
+    {
+        "id": 4,
+        "domain": "Vimeo",
+        "name": "Vimeo",
+        "link": "www.vimeo.com"
+        
+    },
+    {
+        "id": 5,
         "domain": "Twitter",
         "name": "Twitter5",
         "link": "www.twitter.com"
         
     },
     {
-        "id": 4,
+        "id": 6,
+        "domain": "Tumblr",
+        "name": "Tumblr5",
+        "link": "www.tumblr.com"
+        
+    },
+    {
+        "id": 7,
         "domain": "Linkedin",
         "name": "Linkedin2",
         "link": "www.linkedin.com"
         
     },
     {
-        "id": 5,
+        "id": 8,
         "domain": "Instagram",
         "name": "Instagram",
         "link": "www.instagram.com"
+        
+    },
+    {
+        "id": 9,
+        "domain": "Pinterest",
+        "name": "Pinterest2",
+        "link": "www.pinterest.com"
+        
+    },
+    {
+        "id": 10,
+        "domain": "Messenger",
+        "name": "Messenger3",
+        "link": "www.messenger.com"
+        
+    },
+    {
+        "id": 11,
+        "domain": "Reddit",
+        "name": "Reddit2",
+        "link": "www.reddit.com"
         
     }
     ]
