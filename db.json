@@ -1,4 +1,4 @@
-[
+{   "Socials": [
     {
         "id": 1,
         "domain": "Facebook",
@@ -34,4 +34,5 @@
         "link": "www.instagram.com"
         
     }
-]
+    ]
+}
